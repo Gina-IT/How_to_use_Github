@@ -1,4 +1,4 @@
-# How_to_use_Github
+## How_to_use_Github
 
 GitHub 사용하면서
 
